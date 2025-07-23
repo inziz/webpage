@@ -5,4 +5,4 @@
   with:
     # folder to start index generations
     FOLDER: 
-      webpage/repository
+      repository
